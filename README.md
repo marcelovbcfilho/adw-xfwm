@@ -19,4 +19,3 @@ cd ./adw-xfwm
 # Disclaimer
 
 This theme is based on the default libadwaita theme. So basically I opened a libadwaita app like Gnome software and copied it's look.
-
