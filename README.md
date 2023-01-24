@@ -15,3 +15,7 @@ git clone https://github.com/marcelovbcfilho/adw-xfwm.git
 cd ./adw-xfwm
 ./install.sh
 ```
+
+# Disclaimer
+
+This is based on the default libadwaita theme. So basically I opened a libadwaita app like Gnome software and copied it's look.
